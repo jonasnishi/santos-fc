@@ -1,9 +1,10 @@
 
+
 # Santos FC
 
-Esse projeto foi desenvolvido como atividade do curso Técnico em Desenvolvimento de Sistemas do SENAI.
+Esse projeto foi desenvolvido como atividade avaliativa da matéria de Programação de Aplicativos do curso Técnico em Desenvolvimento de Sistemas do SENAI.
 
-O site fala sobre o Santos Futebol Clube, mostrando um pouco da história do time e seus principais títulos.
+O site apresenta um pouco sobre o Santos Futebol Clube, sua história e alguns dos principais títulos conquistados pelo time.
 
 ## Tecnologias utilizadas
 
@@ -11,17 +12,19 @@ O site fala sobre o Santos Futebol Clube, mostrando um pouco da história do tim
 - CSS
 - JavaScript
 
-## Funcionalidades
+## O que tem no site
 
 - Apresentação do Santos FC.
 - História do clube.
-- Lista de títulos.
-- Calculadora de média de gols por jogo.
-- Formulário com validação de dados.
+- Lista de principais títulos.
+- Imagens relacionadas ao Santos.
+- Calculadora de média de gols por partida.
 
-## Como funciona a calculadora
+## Calculadora
 
-O usuário informa a quantidade de gols e a quantidade de jogos. O site calcula a média de gols por partida.
+A calculadora permite informar a quantidade de gols e jogos para descobrir a média de gols por partida.
+
+O formulário também verifica se os dados foram preenchidos corretamente e mostra mensagens quando existe algum erro.
 
 ## Testes realizados
 
@@ -30,8 +33,22 @@ O usuário informa a quantidade de gols e a quantidade de jogos. O site calcula 
 - Teste com números negativos.
 - Teste com quantidade de jogos igual a zero.
 
-## Créditos
+## Estrutura dos arquivos
 
-Projeto desenvolvido com auxílio de inteligência artificial para orientação e explicação dos códigos.
+- index.html: estrutura da página.
+- css/style.css: aparência do site.
+- js/script.js: funcionamento da calculadora.
+- img/: imagens utilizadas no projeto.
 
-As origens das imagens utilizadas serão identificadas conforme suas fontes originais.
+## Créditos e fontes
+
+As imagens utilizadas no projeto devem ter suas fontes originais identificadas:
+
+- Escudo do Santos: [COLOCAR LINK DA FONTE]
+- Foto da Vila Belmiro: [COLOCAR LINK DA FONTE]
+
+## Uso de inteligência artificial
+
+Foi utilizada inteligência artificial como auxílio durante o desenvolvimento, principalmente para explicações, orientação e correção de códigos.
+
+O projeto foi desenvolvido e testado no Visual Studio Code.
