@@ -40,12 +40,19 @@ O formulário também verifica se os dados foram preenchidos corretamente e most
 - js/script.js: funcionamento da calculadora.
 - img/: imagens utilizadas no projeto.
 
+
 ## Créditos e fontes
 
-As imagens utilizadas no projeto devem ter suas fontes originais identificadas:
+Imagens utilizadas no projeto:
 
-- Escudo do Santos: [COLOCAR LINK DA FONTE]
-- Foto da Vila Belmiro: [COLOCAR LINK DA FONTE]
+- Escudo do Santos: Wikimedia Commons.
+  https://commons.wikimedia.org/wiki/File:Santos_Logo.png
+
+- Foto da Vila Belmiro: Wikimedia Commons.
+  https://commons.wikimedia.org/wiki/File:Vila_Belmiro_SantosFC.jpg
+
+O projeto foi desenvolvido com auxílio de inteligência artificial para orientação e explicação dos códigos.
+
 
 ## Uso de inteligência artificial
 
